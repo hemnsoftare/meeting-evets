@@ -11,7 +11,7 @@ function Confirmation() {
         <h2 className='font-bold text-3xl'>Your meeting scheduled successfully!</h2>
         <h2 className='text-lg text-gray-500'>Confirmation sent on your email</h2>
         <Link href={'/dashboard'}><Button>Thank you</Button></Link> 
-
+// jfds
     </div>
   )
 }
